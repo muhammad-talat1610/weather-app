@@ -13,8 +13,7 @@ Weather App app is open-source  app for Android & ios. It is built with Dart on 
 - [x] Deal GetX
 - [x] Deal With dio
 - [x] Deal With charts
-- [ ] ![CV (1)](https://github.com/muhammad-talat1610/weather-app/assets/128619762/ea1a5591-f230-44e5-920d-cd2976022dee)
-
+- [ ] 
 - [x] Deal With Api
 
 
@@ -39,23 +38,6 @@ Weather App app is open-source  app for Android & ios. It is built with Dart on 
 
 
 
-## Other Flutter Projects 🔐
-- [ Clock App](https://github.com/itsherifAhmed/clock-App)
-- [برنامج الاحاديث الاربعون النوويه](https://github.com/itsherifAhmed/alnawawiforty)
-- [Youtube Clone App](https://github.com/itsherifAhmed/youtube-clone-app-Getx-youtube-Data-api-V3)
-- [Quiz App](https://github.com/itsherifAhmed/Quiz-app)
-- [News App](https://github.com/itsherifAhmed/NewsApp)
-- [Device Detail App](https://github.com/itsherifAhmed/device-detail-app)
-- [White board Draw App](https://github.com/itsherifAhmed/draw-app)
-- [music app player external storage read](https://github.com/itsherifAhmed/Music-Player-Read-external-Storage-Flutter-app)
-- [Make Up App flutter MVC Getx](https://github.com/itsherifAhmed/MakeUp-App)
-- [Speech to Text app flutter](https://github.com/itsherifAhmed/Speech-to-text-app)
-- [api flutter project](https://github.com/itsherifAhmed/apiFlutter-Project)
-- [qr code app](https://github.com/itsherifAhmed/qr-barcode)
-- [facebook ui clone](https://github.com/itsherifAhmed/facebook-ui-clone)
-- [Login Screen](https://github.com/itsherifAhmed/login-screen)
-
-
 ## Dependencies 💤
  -  `cached_network_image:`
  -  `http:`
@@ -66,11 +48,4 @@ Weather App app is open-source  app for Android & ios. It is built with Dart on 
  -  `url_launcher:`
  -  `webview_flutter:`
 
-
-
-## Contributors
-
-<a href="https://github.com/itsherifAhmed">
-  <img src="https://github.com/itsherifAhmed.png?size=50">
-</a>
 
