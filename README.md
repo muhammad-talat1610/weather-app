@@ -1,50 +1,20 @@
 #  Weather App ✍🏻
-Weather App with openweathermap.org 👨🏻‍💻
 
 Weather App app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
 
-
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
 <p><img src="snapshot/hole.jpg" /></p>
 <p align="center"><b>Weather App</b></p>
 
-##:rocket: youtube Tutorial
-
-- Udemy Clone App App by GetX Link: [Free Course  App](https://www.youtube.com/watch?v=ynL_-ujbaJU&list=PLI36SLicSOmKMb9gvjQio9EPMpVK4oSK0)
-- Clock App App by GetX Link: [Clock App](https://www.youtube.com/watch?v=zfaVN0oZokk)
-- Ahadith App by GetX Link: [Ahadith](https://www.youtube.com/watch?v=bHVremPtgNo&t=3668s&ab_channel=SecitDevelopers)
-- Youtube App by GetX Link: [youtube](https://www.youtube.com/watch?v=sv4wBvkLPdo)
-- Quiz App by GetX Link: [Quiz](https://www.youtube.com/watch?v=CasRDoWlPcY&t=899s&ab_channel=SecitDevelopers)
-- Note App by GetX Link: [Note](https://www.youtube.com/watch?v=ZrDK3fG4PO0&t=198s&ab_channel=SecitDevelopers)
-- news App Api by GetX Link: [News](https://www.youtube.com/watch?v=MFjoIT3RJSc&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=21&ab_channel=SecitDevelopers)
-- Ecommerce App by GetX Link: [MakeUp](https://www.youtube.com/watch?v=-bwiujixOpU&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=3&ab_channel=SecitDevelopers)
-- Qr Code: [Qr Code](https://www.youtube.com/watch?v=-QCrf5EytSc&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&ab_channel=SecitDevelopers)
-- Voice to Text App: [Voice to Text App](https://www.youtube.com/watch?v=dpdnvSI0Dn8&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=2&ab_channel=SecitDevelopers)
-- GetX EcoSystem playList Link: [PlayList](https://www.youtube.com/watch?v=8Jy4dtQOZMQ&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=1)
-
-
-
-
-## About🤠
-
-Udemy Free Course App With 2 API
-
-## Benfit👻
-- [🖥] # Screens 🖥
-- [🆗] Splash Screen
-- [🆗] Home Screen
-
---------------------------------
-- [x] MVC patterns
 -------------------------------
 - [🖥] # Deal With 🖥
 - [x] Make native
 - [x] Deal GetX
 - [x] Deal With dio
 - [x] Deal With charts
+- [ ] ![CV (1)](https://github.com/muhammad-talat1610/weather-app/assets/128619762/ea1a5591-f230-44e5-920d-cd2976022dee)
+
 - [x] Deal With Api
 
 
